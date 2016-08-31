@@ -1,0 +1,2 @@
+E:\Yang\Program\Git\GitYang\Web_API_O_dataTest_FailTst\EF_CodeFirstFromDB\bin\Debug\EF_CodeFirstFromDB.exe.config
+E:\Yang\Program\Git\GitYang\EntityFramework_CodeFirstFDB\EF_CodeFirstFromDB\bin\Debug\EF_CodeFirstFromDB.exe.config
